@@ -1,6 +1,6 @@
 ---
 layout: home
-title: NSLP 2026
+title: NSLP-SDP 2027
 nav_order: 1
 permalink: /
 ---
