@@ -6,7 +6,7 @@ nav_order: 5
 <div align="center" style="margin: 0px auto;"> 
 <img width="450" height="500" src="SciVQA_2027_logo.gif" alt="scivqa_logo" />
 <br/>
-<h1> SciVQA 2027: Scientific Visual Question Answering </h1>
+<h1> Scientific Visual Question Answering Shared Task (SciVQA 2027)</h1>
 </div>
 
 Scientific papers communicate information through unstructured text as well as (semi-)structured figures and tables. 
