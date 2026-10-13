@@ -6,9 +6,9 @@ nav_order: 7
 
 # Important dates
 
-* Paper submission deadline: **February 20, 2026 (not to be extended)**
-* Notification of acceptance: <s>March 13, 2026</s> **March 14, 2026**
-* Camera-ready submission: **March 27, 2026**
-* Workshop: **<span>May 12, 2026</span>**
+* Paper submission deadline: **January 04, 2027**
+* Notification of acceptance: **February 01, 2027**
+* Camera-ready submission: **February 16, 2027**
+* Workshop: **Exact date TBA**
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
