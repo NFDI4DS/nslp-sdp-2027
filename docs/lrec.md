@@ -1,11 +1,11 @@
 ---
 layout: default
-title: LREC 2026
+title: WebConf 2027
 nav_order: 11
 ---
 
-# LREC 2026
+# WebConf 2027
 
-More information about LREC 2026 is available on the [conference pages](https://www.elra.info/lrec2026/). Please visit LREC 2026 pages to get more information (including information on registration and fees, and the conference program).
+More information about WebConf 2027 is available on the [conference pages](https://www2027.thewebconf.org/). Please visit WebConf 2027 pages to get more information (including information on registration and fees, and the conference program).
 
 Please notice that at least one of the co-authors of the accepted papers is expected to register and attend to the workshop.
