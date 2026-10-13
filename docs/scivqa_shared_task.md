@@ -36,7 +36,7 @@ The dataset is available for download on Hugging Face: TBA
 
 **Evidence retrieval**: precision, recall, and F1-score (macro and micro).
 
-**Answer generation**: Depending on QA type, exact match (EM), F1-score, or BERTscore and ROUGE-L.
+**Answer generation**: Depending on QA type, exact match, F1-score, or BERTscore and ROUGE-L.
 
 ## Important Dates
 TBA
