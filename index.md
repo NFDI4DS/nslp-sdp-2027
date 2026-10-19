@@ -35,10 +35,10 @@ SDP has been held at [EMNLP 2020](https://ornlcda.github.io/SDProc/), [NAACL 202
 
 In addition, the workshop offers **shared tasks**:
 
-* ClimateCheck 2027
-* SciVQA 2027
-* IE4ML 2027
-* READNER 2027
+* [ClimateCheck 2027](https://nfdi4ds.github.io/nslp-sdp-2027/docs/climatecheck_shared_task.html)
+* [IE4ML 2027](https://nfdi4ds.github.io/nslp-sdp-2027/docs/ie4ml_shared_task.html)
+* [READNER 2027](https://nfdi4ds.github.io/nslp-sdp-2027/docs/readner_shared_task.html)
+* [SciVQA 2027](https://nfdi4ds.github.io/nslp-sdp-2027/docs/scivqa_shared_task.html)
 
 ## Important dates
 
