@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submission guidelines
-nav_order: 8
+nav_order: 9
 ---
 
 # Submission guidelines
