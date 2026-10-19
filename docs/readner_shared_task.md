@@ -67,9 +67,9 @@ For the workshop paper submission deadline, notification, camera-ready deadline 
 
 For READNER shared-task enquiries, please contact:
 
-* Genet Asefa Gesese (FIZ Karlsruhe, Germany)
-* Zongxiong Chen (Fraunhofer FOKUS, Germany)
-* Mary Ann Tan (FIZ Karlsruhe, Germany)
+* Genet Asefa Gesese (FIZ Karlsruhe, Germany): [genet-asefa.gesese@fiz-karlsruhe.de](mailto:genet-asefa.gesese@fiz-karlsruhe.de)
+* Zongxiong Chen (Fraunhofer FOKUS, Germany): [zongxiong.chen@fokus.fraunhofer.de](mailto:zongxiong.chen@fokus.fraunhofer.de)
+* Mary Ann Tan (FIZ Karlsruhe, Germany): [ann.tan@fiz-karlsruhe.de](mailto:ann.tan@fiz-karlsruhe.de)
 
 ## References
 
