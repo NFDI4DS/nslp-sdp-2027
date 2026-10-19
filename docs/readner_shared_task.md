@@ -6,7 +6,7 @@ nav_order: 7
 
 # READNER 2027: Named Entity Recognition in GitHub READMEs
 
-READNER 2027 is a fine-grained Named Entity Recognition (NER) shared task at the Workshop on AI for the Scholarly Web (NSLP-SDP 2027). It addresses research-related GitHub README files, where metadata about datasets, software, experimental code, and other research artifacts is often embedded in free-form documentation. The task builds on the NERdME dataset [2] and continues the focus of the [ReadMe2KG shared task at NSLP 2025](https://nfdi4ds.github.io/nslp2025/docs/readme2kg_shared_task.html).
+READNER 2027 is a fine-grained Named Entity Recognition (NER) shared task at the Workshop on AI for the Scholarly Web (NSLP-SDP 2027). It addresses research-related GitHub README files, where metadata about datasets, software, experimental code, and other research artifacts is often embedded in free-form documentation. The task builds on the NERdME dataset [2].
 
 NFDI4DataScience (NFDI4DS) supports the research data lifecycle in Data Science and Artificial Intelligence, from collecting and processing resources to publishing, archiving, and reusing them. GitHub repositories complement research papers by providing datasets, models, source code, and implementation details that help researchers explore and reproduce results. Their README files typically describe the project's purpose, setup, and usage, and link to related research resources. Extracting entities from these documents can enrich the NFDI4DS knowledge graph (NFDI4DS-KG) and help make research resources easier to discover and reuse.
 
@@ -41,8 +41,6 @@ The evaluation metrics, matching rules, ranking procedure, and required submissi
 
 The READNER 2027 CodaBench competition link is **TBA**.
 
-The [2025 ReadMe2KG competition](https://www.codabench.org/competitions/5396/) is available as a historical reference. It is not the READNER 2027 submission platform.
-
 ## Important dates
 
 | Milestone | Date |
@@ -76,7 +74,3 @@ For READNER shared-task enquiries, please contact:
 [1] Genet Asefa Gesese et al. [NFDI4DSO: Towards a BFO Compliant Ontology for Data Science](https://arxiv.org/abs/2408.08698). arXiv:2408.08698 (2024).
 
 [2] Genet Asefa Gesese et al. [NERdME: a Named Entity Recognition Dataset for Indexing Research Artifacts in Code Repositories](https://doi.org/10.1145/3774904.3792934). In Proceedings of the ACM Web Conference 2026, pp. 8661-8664 (2026).
-
-## Source attribution
-
-Adapted from the [2025 ReadMe2KG task description](https://github.com/NFDI4DS/nslp2025/blob/0b0dcbc9bd4461670e28ba86ed4482be65cec1b0/docs/readme2kg_shared_task.md) in NFDI4DS/nslp2025. The 2027 task description, dataset statistics, and organizer list follow Section 6.3 of the NSLP-SDP 2027 workshop proposal. The repository's MIT license notice is retained in [LICENSE]({{ '/LICENSE' | relative_url }}).
