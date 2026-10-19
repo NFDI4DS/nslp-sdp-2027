@@ -50,6 +50,6 @@ In addition, the workshop offers **shared tasks**:
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 
 ## Proceedings 
-TBA
+All original papers accepted at NSLP-SDP 2027 will be published in the WebConf 2027 Companion Proceedings, if submitted within the final submission deadline.
 
 <small><i>The logo was generated using [Canva AI](https://www.canva.com/en_gb/)</i></small>.
