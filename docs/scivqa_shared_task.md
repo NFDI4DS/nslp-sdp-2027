@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SciVQA shared task
-nav_order: 5
+nav_order: 8
 ---
 <div align="center" style="margin: 0px auto;"> 
 <img width="450" height="500" src="SciVQA_2027_logo.gif" alt="scivqa_logo" />
