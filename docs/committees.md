@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Committees
-nav_order: 9
+nav_order: 10
 ---
 
 # Organizing committee
