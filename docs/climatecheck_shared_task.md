@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ClimateCheck shared task
-nav_order: 5
+nav_order: 6
 ---
 <div align="center" style="margin: 0px auto;"> 
 <img width="450" height="500" src="../climatecheck_logo.png" alt="climatecheck_logo" />
