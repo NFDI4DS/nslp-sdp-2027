@@ -39,7 +39,7 @@ The evaluation metrics, matching rules, ranking procedure, and required submissi
 
 ## Competition platform
 
-The READNER 2027 CodaBench competition link is **TBA**.
+The [READNER 2027 CodaBench competition](https://www.codabench.org/competitions/18427/) is currently in organizer setup and has not yet opened for public participation.
 
 ## Important dates
 
