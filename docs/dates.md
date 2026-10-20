@@ -23,8 +23,7 @@ The [READNER shared task]({{ '/docs/readner_shared_task.html' | relative_url }})
 | CodaBench instance publication | December 1, 2026 |
 | System submission deadline on CodaBench | January 4, 2027 |
 | Paper submission deadline | January 11, 2027 |
-| Shared-task overview papers deadline | January 18, 2027 |
 | Notification of acceptance | February 8, 2027 |
 | Camera-ready deadline | February 16, 2027 |
 
-January 4 is the deadline for system submissions on CodaBench. The January 11 paper submission deadline is the same as the workshop deadline; shared-task overview papers are due on January 18. Closing times and the time zone for CodaBench submissions and overview papers are to be announced.
+January 4 is the deadline for system submissions on CodaBench. The January 11 paper submission deadline is the same as the workshop deadline. Closing times and the time zone for CodaBench submissions are to be announced.
