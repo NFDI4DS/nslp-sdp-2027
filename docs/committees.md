@@ -7,23 +7,23 @@ nav_order: 10
 # Organizing committee
 
 * [Georg Rehm](http://georg-re.hm) (DFKI & Humboldt-Universität zu Berlin, Germany)
-* Philipp Mayr (GESIS Leibniz Institute for the Social Sciences, Germany)
-* Tirthankar Ghosal (Oak Ridge National Laboratory, USA)
+* [Philipp Mayr](https://philippmayr.github.io/) (GESIS Leibniz Institute for the Social Sciences, Germany)
+* [Tirthankar Ghosal](https://www.ornl.gov/staff/tirthankar-ghosal/) (Oak Ridge National Laboratory, USA)
 * [Stefan Dietze](http://stefandietze.net) (GESIS Leibniz Institute for the Social Sciences & Heinrich-Heine-University Düsseldorf, Germany)
-* Yufang Hou (IT:U Interdisciplinary Transformation University, Austria & IBM Research)
+* [Yufang Hou](https://yufanghou.github.io/) (IT:U Interdisciplinary Transformation University, Austria & IBM Research)
 * Aakanksha Naik (Allen Institute for AI, USA)
-* Dan Li (Elsevier, The Netherlands)
+* [Dan Li](https://dli1.github.io/) (Elsevier, The Netherlands)
 * [Sonja Schimmler](https://sites.google.com/view/sonjaschimmler/biography) (Fraunhofer FOKUS & Technical University of Berlin, Germany)
-* Anita de Waard (Elsevier, USA)
+* [Anita de Waard](https://www.elsevier.com/events/conferences/ttir-netherlands-2026/anita-de-waard) (Elsevier, USA)
 
 # Programme committee
 
-* R. Abu Ahmad, German Research Center for Artificial Intelligence (DFKI), Germany
+* Raia Abu Ahmad, German Research Center for Artificial Intelligence (DFKI), Germany
 * Ahmed AbuRa'ed, University of British Columbia, Canada
 * Daniel Acuña, University of Colorado, USA
 * Akiko Aizawa, National Institute of Informatics (NII), Japan
 * Hamed Alhoori, Northern Illinois University, USA
-* Iana Atanassova, Université de Franche-Comté, France
+* Iana Atanassova, Université Marie et Louis Pasteur, France
 * Sören Auer, TIB Leibniz Information Centre for Science and Technology, Germany
 * Ekaterina Borisova, German Research Center for Artificial Intelligence (DFKI), Germany
 * Davide Buscaldi, LIPN, CNRS, University Paris 13, France
