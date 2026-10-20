@@ -8,11 +8,11 @@ nav_order: 6
 
 READNER 2027 is a fine-grained Named Entity Recognition (NER) shared task at the Workshop on AI for the Scholarly Web (NSLP-SDP 2027). It addresses research-related GitHub README files, where metadata about datasets, software, experimental code, and other research artifacts is often embedded in free-form documentation. The task builds on the NERdME dataset [2].
 
-NFDI4DataScience (NFDI4DS) supports the research data lifecycle in Data Science and Artificial Intelligence, from collecting and processing resources to publishing, archiving, and reusing them. GitHub repositories complement research papers by providing datasets, models, source code, and implementation details that help researchers explore and reproduce results. Their README files typically describe the project's purpose, setup, and usage, and link to related research resources. Extracting entities from these documents can enrich the NFDI4DS knowledge graph (NFDI4DS-KG) and help make research resources easier to discover and reuse.
+NFDI4DataScience (NFDI4DS) supports the research data lifecycle in Data Science and Artificial Intelligence, from collecting and processing resources to publishing, archiving, and reusing them. GitHub repositories complement research papers by providing datasets, models, source code, and implementation details that help researchers explore and reproduce results. Their README files typically describe the project's purpose, setup, and usage, and link to related research resources. READNER extracts structured metadata from README documents for research resource discovery and reuse.
 
 ## Task definition
 
-Participants will develop systems that take a GitHub README file as input and identify entity mentions, their boundaries, and their types. The task covers the following ten entity types from the NFDI4DS Ontology (NFDI4DSO) [1]:
+Participants develop systems that take a GitHub README file as input and identify entity mentions, their boundaries, and their types. The task covers the following ten entity types from the NFDI4DS Ontology (NFDI4DSO) [1]:
 
 1. Conference
 2. Dataset
@@ -33,11 +33,11 @@ READNER builds on NERdME [2], a dataset of **200 manually annotated GitHub READM
 
 Exact-boundary recognition is a particular challenge for existing LLM and transformer baselines on NERdME [2], leaving room for improved identification of entity mentions and their boundaries.
 
-The evaluation metrics, matching rules, ranking procedure, and required submission format are to be announced with the READNER 2027 competition instructions.
+Each prediction identifies an entity mention, its span boundaries, and one of the ten entity types listed above.
 
 ## Competition platform
 
-The [READNER 2027 CodaBench competition](https://www.codabench.org/competitions/18427/) is in organizer setup, with publication scheduled for December 1, 2026.
+READNER 2027 uses [CodaBench](https://www.codabench.org/competitions/18427/) for system submissions. The competition launches on December 1, 2026.
 
 ## Important dates
 
@@ -51,7 +51,7 @@ The [READNER 2027 CodaBench competition](https://www.codabench.org/competitions/
 | Notification of acceptance | February 8, 2027 |
 | Camera-ready deadline | February 16, 2027 |
 
-January 4 is the deadline for system submissions on CodaBench. The January 11 paper submission deadline is the same as the workshop deadline; shared-task overview papers are due on January 18. Closing times and the time zone for CodaBench submissions and overview papers are to be announced.
+January 4 is the deadline for system submissions on CodaBench. The January 11 paper submission deadline is the same as the workshop deadline; shared-task overview papers are due on January 18.
 
 For the workshop paper submission deadline, notification, camera-ready deadline and workshop date, see the [workshop important dates]({{ '/docs/dates.html' | relative_url }}).
 
