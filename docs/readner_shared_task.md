@@ -31,7 +31,7 @@ The shared task uses NERdME [2], a dataset of **200 manually annotated GitHub RE
 
 ## Evaluation and submissions
 
-Exact-boundary recognition is a particular challenge for existing LLM and transformer baselines on this dataset [2], leaving room for improved identification of entity mentions and their boundaries.
+Partial- and Exact-boundary recognition is a particular challenge for existing LLM and transformer baselines on this dataset [2], leaving room for improved identification of entity mentions and their boundaries.
 
 Each prediction identifies an entity mention, its span boundaries, and one of the ten entity types listed above.
 
@@ -49,10 +49,6 @@ READNER 2027 uses [CodaBench](https://www.codabench.org/competitions/18427/) for
 | Paper submission deadline | January 11, 2027 |
 | Notification of acceptance | February 8, 2027 |
 | Camera-ready deadline | February 16, 2027 |
-
-January 4 is the deadline for system submissions on CodaBench. The January 11 paper submission deadline is the same as the workshop deadline.
-
-For the workshop paper submission deadline, notification, camera-ready deadline and workshop date, see the [workshop important dates]({{ '/docs/dates.html' | relative_url }}).
 
 ## Organizers
 
