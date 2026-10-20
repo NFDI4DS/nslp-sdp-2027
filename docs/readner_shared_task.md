@@ -37,18 +37,21 @@ The evaluation metrics, matching rules, ranking procedure, and required submissi
 
 ## Competition platform
 
-The [READNER 2027 CodaBench competition](https://www.codabench.org/competitions/18427/) is currently in organizer setup and has not yet opened for public participation.
+The [READNER 2027 CodaBench competition](https://www.codabench.org/competitions/18427/) is in organizer setup, with publication scheduled for December 1, 2026.
 
 ## Important dates
 
-| Milestone                      | Date              |
-|--------------------------------|-------------------|
-| Training data release          | November 1, 2026  |
-| Test data release              | December 15, 2026 |
-| Evaluation submission deadline | December 29, 2026 |
-| Paper submission deadline      | January 4, 2027   |
+| Milestone | Date |
+| --- | --- |
+| Datasets released | December 1, 2026 (flexible) |
+| CodaBench instance publication | December 1, 2026 |
+| System submission deadline on CodaBench | January 4, 2027 |
+| Paper submission deadline | January 11, 2027 |
+| Shared-task overview papers deadline | January 18, 2027 |
+| Notification of acceptance | February 8, 2027 |
+| Camera-ready deadline | February 16, 2027 |
 
-December 29 is the deadline for participant system submissions. January 4 is the deadline for submitting  paper.
+The dataset release date is flexible. January 4 is the deadline for system submissions on CodaBench. The January 11 paper submission deadline is the same as the workshop deadline; shared-task overview papers are due on January 18. Closing times and the time zone for CodaBench submissions and overview papers are to be announced.
 
 For the workshop paper submission deadline, notification, camera-ready deadline and workshop date, see the [workshop important dates]({{ '/docs/dates.html' | relative_url }}).
 
