@@ -50,7 +50,7 @@ nav_order: 10
 * Mirko Marras, University of Cagliari, Italy
 * Norman Meuschke, University of Göttingen, Germany
 * Federico Nanni, The Alan Turing Institute, UK
-* I. Nyunya Obonyo, University of Nairobi, Kenya
+* Ishmael Nyunya Obonyo, University of Nairobi, Kenya
 * Francesco Osborne, The Open University, UK
 * Wolfgang Otto, GESIS Leibniz Institute for the Social Sciences, Germany
 * Haris Papageorgiou, Athena Research Center, Greece
