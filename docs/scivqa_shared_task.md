@@ -39,7 +39,13 @@ The dataset is available for download on Hugging Face: TBA
 **Answer generation**: Depending on QA type, exact match, F1-score, or BERTscore and ROUGE-L.
 
 ## Important Dates
-TBA
+
+* Train set release: TBA               
+* Test set release: December 1, 2026  
+* System submission deadline: January 4, 2027   
+* Paper submission deadline: January 11, 2027  
+* Notification of acceptance: February 8, 2027  
+* Camera-ready deadline: February 16, 2027 
 
 ## Organizers
 
