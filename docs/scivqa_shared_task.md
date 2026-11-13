@@ -40,8 +40,7 @@ The dataset is available for download on Hugging Face: TBA
 
 ## Important Dates
 
-* Train set release: TBA               
-* Test set release: December 1, 2026  
+* Dataset release: December 1, 2026  
 * System submission deadline: January 4, 2027   
 * Paper submission deadline: January 11, 2027  
 * Notification of acceptance: February 8, 2027  
