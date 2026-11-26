@@ -3,36 +3,50 @@ layout: default
 title: IE4ML 2027 shared task
 nav_order: 6
 ---
+<div> 
+<img width="450" height="500" src="ie4ml_logo_big.png" alt="IE4ML 2027 Shared Task Logo" />
+</div>
 
-# IE4ML Shared Task on Information Extraction for Machine Learning
+# IE4ML 2027 Shared Task on Information Extraction for Machine Learning
+
+Reproducing machine learning (ML) research requires structured access to the models, datasets, methods, and relations described in scientific publications. IE4ML builds on (GSAP-ERE)[https://data.gesis.org/gsap/gsap-ere], an extension of (GSAP-NER)[https://data.gesis.org/gsap/gsap-ner], and turns its schema into a community benchmark for producing machine-actionable descriptions suitable for scholarly knowledge graphs and Web-scale discovery of knowledge about ML and AI Method usage. 
+
+The Entity and Relation Extraction (ERE) task builds on 10 entity and 18 relation types describing ML-related information in full texts of scientific publications.
+
+## Important Dates
+* Dataset release: December 1, 2026  
+* System submission deadline: January 4, 2027   
+* Paper submission deadline: January 11, 2027  
+* Notification of acceptance: February 8, 2027  
+* Camera-ready deadline: February 16, 2027 
+
+## Subtasks
+For this shared task we defined two subtasks:
+
+### 1. Named Entity Recognition (NER) of ML-Related Enitities
 
 
-Reproducing machine learning research requires structured access to the models, datasets, methods, and relations described in scientific publications. IE4ML builds on GSAP-ERE, an extension of GSAP-NER, and turns its schema into a community benchmark for producing machine-actionable  descriptions suitable for scholarly knowledge graphs and Web-scale discovery. 
+### 2. Joint Entity and Relation Extraction of ML-Related Entities
 
-The task uses 10 entity and 18 relation types and comprises two subtasks: 1. IE4ML Entity Extraction (span extraction and classification); 2. IE4ML Relation Extraction (given gold entity spans). Training uses 80 publicly released GSAP-ERE publications; validation and test sets each contain 20 newly annotated papers released during the evaluation phases.
-
-## Dataset
-* Extension of GSAP-ERE
 
 ## Evaluation and submissions
 
-## Competion platform
+and comprises two subtasks: 1. IE4ML Entity Extraction (span extraction and classification); 2. IE4ML Relation Extraction (given gold entity spans). Training uses 80 publicly released GSAP-ERE publications; validation and test sets each contain 20 newly annotated papers released during the evaluation phases.
+
+
+
+## Competion Platform
+ * TBA
 
 ## Organizers
  * Wolf Otto (GESIS - Leibniz Institute for the Social Sciences, Germany)
+ * Hewan Shreshta
  * Lu Gan
  * Stefan Dietze
- * Hewan Shreshta
-
 
 ## Contact
-
-
-## Baseline Model
- * github
- * huggingface
-
+ * wolfgang.otto@gesis.org
 
 ## References
- * GSAP-ERE
-
+ * GSAP-NER paper
+ * GSAP-ERE paper
