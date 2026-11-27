@@ -4,8 +4,10 @@ title: NSLP-SDP 2027
 nav_order: 1
 permalink: /
 ---
-
-# Workshop on AI for the Scholarly Web (NSLP-SDP 2027)
+<div align="center" style="margin: 0px auto;">
+  <h1>NSLP-SDP 2027:<br>
+  Workshop on AI for the Scholarly Web</h1>
+</div>
 
 <table>
   <tr>
