@@ -9,7 +9,7 @@ nav_order: 6
 
 # IE4ML 2027 Shared Task on Information Extraction for Machine Learning
 
-Reproducing machine learning (ML) research requires structured access to the models, datasets, methods, and relations described in scientific publications. IE4ML builds on (GSAP-ERE)[https://data.gesis.org/gsap/gsap-ere], an extension of (GSAP-NER)[https://data.gesis.org/gsap/gsap-ner], and turns its schema into a community benchmark for producing machine-actionable descriptions suitable for scholarly knowledge graphs and Web-scale discovery of knowledge about ML and AI Method usage. 
+Reproducing machine learning (ML) research requires structured access to the models, datasets, methods, and relations described in scientific publications. IE4ML builds on [GSAP-ERE](https://data.gesis.org/gsap/gsap-ere), an extension of [GSAP-NER](https://data.gesis.org/gsap/gsap-ner), and turns its schema into a community benchmark for producing machine-actionable descriptions suitable for scholarly knowledge graphs and Web-scale discovery of knowledge about ML and AI Method usage. 
 
 The Entity and Relation Extraction (ERE) task builds on 10 entity and 18 relation types describing ML-related information in full texts of scientific publications.
 
@@ -38,5 +38,5 @@ For this shared task we defined two subtasks:
  * wolfgang.otto@gesis.org
 
 ## References
- * GSAP-NER paper
- * GSAP-ERE paper
+ * Otto, W., Zloch, M., Gan, L., Karmakar, S., & Dietze, S. 2023. GSAP-NER: A Novel Task, Corpus, and Baseline for Scholarly Entity Extraction Focused on Machine Learning Models and Datasets . Findings of the Association for Computational Linguistics: EMNLP 2023 (pp. 8166–8176), Singapore.
+ * Otto, W., Gan, L, Upadhyaya, S., Karmakar, S., Dietze, S. 2026. GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning . Accepted at AAAI 2026, Singapore.
