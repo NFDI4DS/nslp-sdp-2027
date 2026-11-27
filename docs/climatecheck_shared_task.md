@@ -17,8 +17,8 @@ More information on data, requirements, and timeline will be announced soon.
 
 ## Shared task organisers:
 
-* <a href="mailto:raia.abu_ahmad@dfki.de">Raia Abu Ahmad (DFKI Berlin)</a>
-* <a href="mailto:georg.rehm@dfki.de">Georg Rehm (DFKI Berlin)</a>
+* <a href="mailto:raia.abu_ahmad@dfki.de">Raia Abu Ahmad (DFKI, Germany)</a>
+* <a href="mailto:georg.rehm@dfki.de">Georg Rehm (DFKI, Germany)</a>
 
 
 ## References and further reading:

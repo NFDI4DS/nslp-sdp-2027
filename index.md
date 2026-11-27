@@ -4,8 +4,11 @@ title: NSLP-SDP 2027
 nav_order: 1
 permalink: /
 ---
-
-# Workshop on AI for the Scholarly Web (NSLP-SDP 2027)
+<div align="center" style="margin: 0px auto;">
+  <h1><strong>NSLP-SDP 2027:<br>
+  Workshop on AI for the Scholarly Web</strong></h1>
+</div>
+<br/>
 
 <table>
   <tr>
@@ -13,12 +16,13 @@ permalink: /
       <img width="250" height="250" src="./logo.png" alt="logo"/>
     </td>
     <td>
-    <strong>1st Joint Workshop on AI for the Scholarly Web (NSLP-SDP 2027)
+    <strong>NSLP-SDP 2027:<br>
+  Workshop on AI for the Scholarly Web
 </strong>
     <br/><br/>
     <strong>Co-located with <a href="https://www2027.thewebconf.org/" target="_blank">The Web Conference 2027</a></strong>
     <br/>
-    <strong><span>May 10-14, 2027 (exact date TBA)</span></strong>
+    <strong><span>May 11, 2027 (TBC)</span></strong>
     <br/>
     <strong>Dublin, Ireland</strong>
     </td>
@@ -45,7 +49,7 @@ In addition, the workshop offers **shared tasks**:
 * Paper submission deadline: **January 11, 2027**
 * Notification of acceptance: **February 08, 2027**
 * Camera-ready submission: **February 16, 2027**
-* Workshop: **Exact date TBA**
+* Workshop: **May 11, 2027 (TBC)**
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 

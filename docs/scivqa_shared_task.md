@@ -48,8 +48,8 @@ The dataset is available for download on Hugging Face: TBA
 
 ## Organizers
 
-* <a href="mailto:ekaterina.borisova@dfki.de">Ekaterina Borisova (DFKI Berlin)</a>
-* <a href="mailto:georg.rehm@dfki.de">Georg Rehm (DFKI Berlin)</a>
+* <a href="mailto:ekaterina.borisova@dfki.de">Ekaterina Borisova (DFKI Germany)</a>
+* <a href="mailto:georg.rehm@dfki.de">Georg Rehm (DFKI Germany)</a>
 
 
 
