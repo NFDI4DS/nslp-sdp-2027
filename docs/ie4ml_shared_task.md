@@ -22,27 +22,17 @@ The Entity and Relation Extraction (ERE) task builds on 10 entity and 18 relatio
 
 ## Subtasks
 For this shared task we defined two subtasks:
-
-### 1. Named Entity Recognition (NER) of ML-Related Enitities
-
-
-### 2. Joint Entity and Relation Extraction of ML-Related Entities
-
-
-## Evaluation and submissions
-
-and comprises two subtasks: 1. IE4ML Entity Extraction (span extraction and classification); 2. IE4ML Relation Extraction (given gold entity spans). Training uses 80 publicly released GSAP-ERE publications; validation and test sets each contain 20 newly annotated papers released during the evaluation phases.
-
-
+ * Named Entity Recognition (NER) of ML-Related Enitities
+ * Joint Entity and Relation Extraction of ML-Related Entities
 
 ## Competion Platform
  * TBA
 
 ## Organizers
- * Wolf Otto (GESIS - Leibniz Institute for the Social Sciences, Germany)
- * Hewan Shreshta
- * Lu Gan
- * Stefan Dietze
+ * Wolf Otto (GESIS - Leibniz Institute for the Social Sciences, Cologne, Germany)
+ * Hewan Shreshta (GESIS - Leibniz Institute for the Social Sciences, Cologne, Germany)
+ * Lu Gan (GESIS - Leibniz Institute for the Social Sciences, Cologne, Germany)
+ * Stefan Dietze (GESIS - Leibniz Institute for the Social Sciences, Cologne, Germany)
 
 ## Contact
  * wolfgang.otto@gesis.org
