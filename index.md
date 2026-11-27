@@ -16,7 +16,8 @@ permalink: /
       <img width="250" height="250" src="./logo.png" alt="logo"/>
     </td>
     <td>
-    <strong>1st Joint Workshop on AI for the Scholarly Web (NSLP-SDP 2027)
+    <strong>NSLP-SDP 2027:<br>
+  Workshop on AI for the Scholarly Web
 </strong>
     <br/><br/>
     <strong>Co-located with <a href="https://www2027.thewebconf.org/" target="_blank">The Web Conference 2027</a></strong>
